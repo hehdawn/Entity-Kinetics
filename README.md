@@ -1,6 +1,6 @@
 # Entity-Kinetics
 
-this repository is open for Issues tracking
+This repository is for Issue Tracking only.
 
 **HOW TO ACCESS SOURCE CODE:**
 
